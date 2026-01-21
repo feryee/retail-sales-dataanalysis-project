@@ -1,21 +1,28 @@
-# retail-sales-dataanalysis-project
-Beginner Data Analytics project using Excel and SQL to analyze retail sales data and extract business insights.
+# Retail Sales Data Analysis Project
 
-I worked on a retail sales data analytics project. I started with raw sales data, cleaned and organized it in Excel, and formatted it for analysis. I analyzed sales and profit trends and created a Profit_Status column to classify profit and loss. I also wrote SQL queries to calculate total sales, profit, and region-wise and category-wise performance. This project helped me understand how business data is analyzed step by step.
-# Retail Sales Data Analysis
+Beginner-level Data Analytics project using **Excel, SQL, and Power BI** to analyze retail sales data and extract business insights.
 
 ## Objective
-To analyze retail sales data and understand sales and profit patterns.
+To analyze retail sales data and understand sales and profit patterns across categories, regions, and customer segments.
 
 ## Tools Used
-- Excel (Data cleaning and analysis)
-- SQL (Analytical queries)
+- **Excel** – Data cleaning and preparation  
+- **SQL** – Analytical queries for business insights  
+- **Power BI** – Dashboard creation and data visualization  
 
 ## Work Done
-- Cleaned and formatted sales data in Excel
-- Analyzed sales, profit, discount, and quantity
-- Created a Profit_Status column to identify profit and loss
-- Prepared SQL queries for business insights
+- Cleaned and organized raw sales data in Excel  
+- Analyzed sales, profit, discount, and quantity metrics  
+- Created a **Profit_Status** column to classify profit and loss  
+- Wrote SQL queries to calculate:
+  - Total sales and profit  
+  - Category-wise and region-wise performance  
+- Built a **Power BI dashboard** to visualize:
+  - Total Sales  
+  - Sales by Category  
+  - Sales by Region  
+  - Sales by Segment  
+  - Profit vs Loss distribution  
 
-## Status
-Project is in progress. Visualizations will be added.
+## Project Status
+Power BI dashboard added. Project completed with scope for future enhancements.

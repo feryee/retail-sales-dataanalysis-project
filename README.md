@@ -8,7 +8,8 @@ To analyze retail sales data and understand sales and profit patterns across cat
 ## Tools Used
 - **Excel** – Data cleaning and preparation  
 - **SQL** – Analytical queries for business insights  
-- **Power BI** – Dashboard creation and data visualization  
+- **Power BI** – Dashboard creation and data visualization
+- **Tableau** - Tableau analysis using retail sales data to visualize
 
 ## Work Done
 - Cleaned and organized raw sales data in Excel  
@@ -22,7 +23,12 @@ To analyze retail sales data and understand sales and profit patterns across cat
   - Sales by Category  
   - Sales by Region  
   - Sales by Segment  
-  - Profit vs Loss distribution  
+  - Profit vs Loss distribution
+  -Built **Tableau Mini Project**
+A beginner-level Tableau analysis using retail sales data to visualize:
+- Sales by Category
+- Sales by Region
+ 
 
 ## Project Status
 Power BI dashboard added. Project completed with scope for future enhancements.

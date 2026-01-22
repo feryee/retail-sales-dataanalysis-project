@@ -24,7 +24,7 @@ To analyze retail sales data and understand sales and profit patterns across cat
   - Sales by Region  
   - Sales by Segment  
   - Profit vs Loss distribution
-  -Built **Tableau Mini Project**
+- Built **Tableau Mini Project**
 A beginner-level Tableau analysis using retail sales data to visualize:
 - Sales by Category
 - Sales by Region
